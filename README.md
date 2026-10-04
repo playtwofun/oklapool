@@ -1,4 +1,4 @@
-# HoodFi — Liquidity Protocol on Robinhood Chain
+# Oklapool — Liquidity Protocol on Robinhood Chain
 
 Non-custodial ETH liquidity pool website. **No SQL, no framework** — a single `index.php`
 plus one Solidity contract. Every number on the site is read directly from Robinhood Chain.
